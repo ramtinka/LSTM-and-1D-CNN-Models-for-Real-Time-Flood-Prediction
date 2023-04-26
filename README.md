@@ -45,3 +45,8 @@ python3 lstm.py
 The script will train the LSTM and 1D-CNN modelx using the training data and evaluate it using the testing data. The output will display the Mean Absolute Percentage Error (MAPE) of the model predictions.
 
 
+## Cite Us: 
+
+If you find this code beneficial for your research, we kindly request that you cite our work:
+```
+@ARTICLE{}
