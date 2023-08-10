@@ -42,11 +42,11 @@ test_data = load_data('data/Grand Forks-2022.csv')
 python3 lstm.py
 ```
 
-The script will train the LSTM and 1D-CNN modelx using the training data and evaluate it using the testing data. The output will display the Mean Absolute Percentage Error (MAPE) of the model predictions.
+The script will train the LSTM and 1D-CNN models using the training data and evaluate them using the testing data. The output will display the model predictions' Mean Absolute Percentage Error (MAPE).
 
 
 ## Cite Us: 
 
 If you find this code beneficial for your research, we kindly request that you cite our work:
 ```
-@ARTICLE{}
+@ARTICLE{Atashi, Vida, et al. "Comparative Study of Deep Learning LSTM and 1D-CNN Models for Real-time Flood Prediction in Red River of the North, USA." 2023 IEEE International Conference on Electro Information Technology (eIT). IEEE, 2023.}
