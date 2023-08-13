@@ -1,7 +1,7 @@
 # LSTM-and-1D-CNN-Models-for-Real-Time-Flood-Prediction
 Comparative Study of Deep Learning LSTM and 1D-CNN Models for Real-time Flood Prediction in Red River of the North, USA
 
-This repository contains a Python script that demonstrates the use of a deep learning LSTM and 1D-CNN models to predict real-time flood levels in the Red River of the North, USA. The script includes data preprocessing, model training, evaluation, and plotting results.
+This repository contains a Python script demonstrating the use of deep learning LSTM and 1D-CNN models to predict real-time flood levels in the North, USA Red River. The script includes data preprocessing, model training, evaluation, and plotting results.
 
 ## Prerequisites
 
@@ -48,5 +48,19 @@ The script will train the LSTM and 1D-CNN models using the training data and eva
 ## Cite Us: 
 
 If you find this code beneficial for your research, we kindly request that you cite our work:
+
+[Comparative Study of Deep Learning LSTM and 1D-CNN Models for Real-time Flood Prediction in Red River of the North, USA](https://ieeexplore.ieee.org/abstract/document/10187358)
 ```
-@ARTICLE{Atashi, Vida, et al. "Comparative Study of Deep Learning LSTM and 1D-CNN Models for Real-time Flood Prediction in Red River of the North, USA." 2023 IEEE International Conference on Electro Information Technology (eIT). IEEE, 2023.}
+@InProceedings{Atashi2023,
+  title =        {Comparative Study of Deep Learning LSTM and 1D-CNN Models for Real-time Flood Prediction in Red River of the North, USA},
+  author =       {Atashi, V. and Kardan, R. and Gorji, H. T. and Lim, Y. H.},
+  booktitle =    {2023 IEEE International Conference on Electro Information Technology (eIT)},
+  pages =        {022-028},
+  year =         {2023},
+  month =        {May},
+  publisher =    {IEEE},
+  url =          {https://ieeexplore.ieee.org/abstract/document/10187358}
+}
+```
+---
+
